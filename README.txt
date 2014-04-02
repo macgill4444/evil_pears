@@ -1,5 +1,5 @@
+Run "python Main.py" to play the game. I hope you enjoy. I wrote this using
+pygame in Spring 2014.
+
 Macgill Davis
 
-I believe that everything works correctly.
-
-This assignment took me 4 hours.
